@@ -17,8 +17,10 @@
  </br>
  <OL>
   <li> Na czym polega różnica między zmianą prędkości, a zmianą tempa?</li>
+ </br>
   Różnica pomiędzy zmianą prędkości, a zmianą tempa jest znacząca. Prędkość odpowiada za szybkość z jaką odtwarzany jest utwór. Przy jej zastosowaniu oprócz zmiany prędkości oczywiście, można zaobserwować również różnicę w barwie wokalu. Przy zmniejszeniu prędkości wokal staje się niski, a przy jej zwiększeniu - wysoki, wręcz piskliwy. Natomiast zmiana tempa opiera się na zmianie rytmu. Opiera się ona na zmianie BPM, czyli na zmianie uderzeń na minutę. Przez zastosowanie tej opcji utwór przyspieszy swój rytm lub go spowolni. W przeciwieństwie do zmiany prędkości, ta zmiana nie ma wpływu na barwę wokalu.
-  </br>
+ </br>
+ </br>
   <li> Co to jest "loudness normalization"?</li>
   </br>
   <li> Co to jest "normalize"? </li>
