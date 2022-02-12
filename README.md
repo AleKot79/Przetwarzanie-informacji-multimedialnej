@@ -18,12 +18,17 @@
  <OL>
   <li> Na czym polega różnica między zmianą prędkości, a zmianą tempa?</li>
  </br>
-  Różnica pomiędzy zmianą prędkości, a zmianą tempa jest znacząca. Prędkość odpowiada za szybkość z jaką odtwarzany jest utwór. Przy jej zastosowaniu oprócz zmiany prędkości oczywiście, można zaobserwować również różnicę w barwie wokalu. Przy zmniejszeniu prędkości wokal staje się niski, a przy jej zwiększeniu - wysoki, wręcz piskliwy. Natomiast zmiana tempa opiera się na zmianie rytmu. Opiera się ona na zmianie BPM, czyli na zmianie uderzeń na minutę. Przez zastosowanie tej opcji utwór przyspieszy swój rytm lub go spowolni. W przeciwieństwie do zmiany prędkości, ta zmiana nie ma wpływu na barwę wokalu.
+  Różnica pomiędzy zmianą prędkości, a zmianą tempa jest znacząca. Prędkość odpowiada za szybkość z jaką odtwarzany jest utwór. Przy jej zastosowaniu oprócz zmiany prędkości oczywiście, można zaobserwować również różnicę w barwie wokalu. Przy zmniejszeniu prędkości wokal staje się niski, a przy jej zwiększeniu - wysoki, wręcz piskliwy. Natomiast zmiana tempa opiera się na zmianie rytmu, czyli BPM (uderzenia na minutę). Przez zastosowanie tej opcji utwór przyspieszy swój rytm lub go spowolni. W przeciwieństwie do zmiany prędkości, ta zmiana nie ma wpływu na barwę wokalu.
  </br>
  </br>
   <li> Co to jest "loudness normalization"?</li>
+  </br> 
+  Jest to normalizacja głośności. Opcja ta wyrównuje poziom głośności w utworze i obniża go do zalecanych granic, najbardziej komfortowych dla ludzkiego ucha.
+  </br>
   </br>
   <li> Co to jest "normalize"? </li>
+  </br>
+  Jest to normalizacja. Opcja ta wyrównuje aplitudę, czyli poziom dźwięku dla obu kanałów stereo. Dzięki temu poziom utworu w lewym kanale i prawym jest na takim samym poziomie i nie występuje efekt polegający na tym, że po lewej stronie urządzenia słyszymy coś głośniej (np. muzykę), a po prawej coś innego (np. wokal). 
   
  </OL>
  </br>
