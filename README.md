@@ -31,5 +31,9 @@
  <h3>Zadanie nr 2:</h3>
  </br>
  <OL>
-  <li><a href="https://drive.google.com/file/d/1XtDkUdJu-95Mx3-fBv5-VZf6mToFH5nP/view?usp=sharing">Podcast</a></li>
+  <li><a href="https://drive.google.com/file/d/1XtDkUdJu-95Mx3-fBv5-VZf6mToFH5nP/view?usp=sharing">Podcast</a> 
+    </br>
+    - montaż i przygotowanie: Aleksandra Kot
+    </br>
+    - głosu użyczył: Krzysztof Stępień</li>
  </OL>
