@@ -4,6 +4,7 @@
 <h3>Zadanie nr 1:</h3>
 </br>
 <OL>
+  <li> <a href="https://drive.google.com/file/d/1mFjV_DAStZYm07vZSBoSohy8h82RO3ys/view?usp=sharing">Utwór użyty do zadania</a></li>
   <li> <a href="https://drive.google.com/file/d/1VGrPtAcNMUrLkrWk9rv8rzEQkRgEsryb/view?usp=sharing">Usunięcie wokalu</a></li>
   <li><a href="https://drive.google.com/file/d/11qgdks2xI1v5B5ewHyiWVA0q62a0ONdw/view?usp=sharing">Wyrównanie głośności</a></li>
   <li><a href="https://drive.google.com/file/d/1QcLkIstbGZXnXJkiNDTBpX9kMIXZZfue/view?usp=sharing">Efekt wah-wah</a></li>
