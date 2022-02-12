@@ -4,7 +4,7 @@
 <h3>Zadanie nr 1:</h3>
 </br>
 <OL>
-  <li>Usunięcie wokalu</li>
+  <li> <a href="https://drive.google.com/file/d/1VGrPtAcNMUrLkrWk9rv8rzEQkRgEsryb/view?usp=sharing">Usunięcie wokalu</a></li>
   <li>Wyrównanie głośności</li>
   <li>Efekt wah-wah</li>
   <li>Zmiana prędkości</li>
@@ -16,11 +16,12 @@
  <h3>Odpowiedzi na pytania:</h3>
  </br>
  <OL>
-  <li> </li>
+  <li> Na czym polega różnica między zmianą prędkości, a zmianą tempa?</li>
   </br>
-  <li> </li>
+  <li> Co to jest "loudness normalization"?</li>
   </br>
-  <li> </li>
+  <li> Co to jest "normalize"? </li>
+  
  </OL>
  </br>
  </br>
